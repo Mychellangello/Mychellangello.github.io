@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1497271933
+#1497436612
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -26,7 +26,7 @@ images/terrasky-sheet0.png
 images/terra2-sheet0.png
 images/terra-sheet0.png
 images/elfa-sheet0.png
-images/sprite3-sheet0.png
+images/carvenaparede-sheet0.png
 images/galho-sheet0.png
 images/aurela-sheet0.png
 images/fundodolobo-sheet0.png
@@ -47,12 +47,14 @@ images/commusica-sheet0.png
 images/botaocontinue-sheet0.png
 images/nocelta-sheet0.png
 images/balderletreiro-sheet0.png
-images/sprite-sheet0.png
+images/fundomenu-sheet0.png
 images/fundoespaco-sheet0.png
 images/fundo2-sheet0.png
 images/fundo3-sheet0.png
 images/referencias-sheet0.png
 images/ganhando-sheet0.png
+images/explicaçãomovi-sheet0.png
+images/onda-sheet0.png
 media/celtic%20music%20-%20wolf%20blood.ogg
 media/laser5.ogg
 media/peder_b._helland_-_dance_of_life_(mp3.pm).ogg
