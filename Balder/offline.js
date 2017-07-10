@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499091551,
+	"version": 1499690116,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -64,7 +64,6 @@
 		"images/aranha-sheet1.png",
 		"images/aranha-sheet2.png",
 		"images/montanha-sheet0.png",
-		"images/boss-sheet0.png",
 		"images/balaplanta-sheet0.png",
 		"images/mudarlado-sheet0.png",
 		"images/pause-sheet0.png",
@@ -78,6 +77,9 @@
 		"images/tranformaçõeslobo-sheet0.png",
 		"images/joazinhodaplataforma.png",
 		"images/condiçãodevitoria-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/botaonovo-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/celtic music - wolf blood.ogg",
 		"media/laser5.ogg",
 		"media/peder_b._helland_-_dance_of_life_(mp3.pm).ogg",
