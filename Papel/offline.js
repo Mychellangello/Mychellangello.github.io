@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1501590707,
+	"version": 1501591185,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -58,7 +58,6 @@
 		"images/semáforo-sheet2.png",
 		"images/sprite3-sheet0.png",
 		"images/passaro-sheet0.png",
-		"images/loja-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
