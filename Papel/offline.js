@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1501784220,
+	"version": 1501787163,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -62,7 +62,7 @@
 		"images/spritefont.png",
 		"images/comprarc3-sheet0.png",
 		"images/comprarc4-sheet0.png",
-		"images/sprite-sheet0.png",
+		"images/nexus-sheet0.png",
 		"images/passarcartadireita-sheet0.png",
 		"images/passarcartaesquerda-sheet0.png",
 		"images/som-sheet0.png",
