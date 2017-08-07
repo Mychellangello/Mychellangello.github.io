@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1501787778,
+	"version": 1502134228,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -61,13 +61,15 @@
 		"images/comprarc2-sheet0.png",
 		"images/spritefont.png",
 		"images/comprarc3-sheet0.png",
-		"images/comprarc4-sheet0.png",
+		"images/comprarc1-sheet0.png",
 		"images/nexus-sheet0.png",
 		"images/passarcartadireita-sheet0.png",
 		"images/passarcartaesquerda-sheet0.png",
 		"images/som-sheet0.png",
 		"images/som-sheet1.png",
 		"images/volta-sheet0.png",
+		"images/homebuttom-sheet0.png",
+		"media/cheeky_monkey_fun_app_playful_cheeky (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
