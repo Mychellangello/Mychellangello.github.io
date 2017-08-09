@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1502134704
+#1502274033
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -28,15 +28,16 @@ images/itemescudo-sheet1.png
 images/itemescudo-sheet2.png
 images/cartanormal-sheet0.png
 images/cartanormal-sheet1.png
+images/cartanormal-sheet2.png
+images/cartanormal-sheet3.png
+images/cartanormal-sheet4.png
 images/cartameio-sheet0.png
 images/cartameio-sheet1.png
 images/cartameio-sheet2.png
 images/cartameio-sheet3.png
-images/cartameio-sheet4.png
 images/cartaeletronica-sheet0.png
 images/cartaeletronica-sheet1.png
 images/cartaeletronica-sheet2.png
-images/cartaeletronica-sheet3.png
 images/habilidades-sheet0.png
 images/barravida-sheet0.png
 images/vida-sheet0.png
@@ -68,6 +69,7 @@ images/som-sheet0.png
 images/som-sheet1.png
 images/volta-sheet0.png
 images/homebuttom-sheet0.png
+images/habilidade1-sheet0.png
 media/cheeky_monkey_fun_app_playful_cheeky%20(online-audio-converter.com).ogg
 icon-16.png
 icon-32.png
