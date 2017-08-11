@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1502475377
+#1502478262
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -57,7 +57,11 @@ images/semáforo-sheet1.png
 images/semáforo-sheet2.png
 images/teladecarrego-sheet0.png
 images/passaro-sheet0.png
+images/passaro-sheet1.png
+images/passaro-sheet2.png
 images/passaro2-sheet0.png
+images/passaro2-sheet1.png
+images/passaro2-sheet2.png
 images/loja-sheet0.png
 images/comprarc2-sheet0.png
 images/spritefont.png
