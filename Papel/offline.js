@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502711123,
+	"version": 1502797955,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -79,6 +79,11 @@
 		"images/selos-sheet0.png",
 		"images/selo2-sheet0.png",
 		"images/selo3-sheet0.png",
+		"images/fundoazul-sheet0.png",
+		"images/fundoazul-sheet1.png",
+		"images/fundoazul-sheet2.png",
+		"images/particles.png",
+		"images/sprite-sheet0.png",
 		"media/cheeky_monkey_fun_app_playful_cheeky (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
