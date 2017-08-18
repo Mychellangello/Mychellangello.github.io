@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502911181,
+	"version": 1503079211,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -106,6 +106,7 @@
 		"images/quaselogo-sheet2.png",
 		"images/fundoconfg-sheet0.png",
 		"images/botãosair-sheet0.png",
+		"images/bandeira-sheet0.png",
 		"media/cheeky_monkey_fun_app_playful_cheeky (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
