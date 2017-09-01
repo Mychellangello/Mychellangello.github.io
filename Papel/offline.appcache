@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1503594761
+#1504288293
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -58,6 +58,9 @@ images/semáforo-sheet0.png
 images/semáforo-sheet1.png
 images/semáforo-sheet2.png
 images/teladecarrego-sheet0.png
+images/teladecarrego-sheet1.png
+images/teladecarrego-sheet2.png
+images/teladecarrego-sheet3.png
 images/passaro-sheet0.png
 images/passaro-sheet1.png
 images/passaro-sheet2.png
@@ -65,13 +68,12 @@ images/passaro2-sheet0.png
 images/passaro2-sheet1.png
 images/passaro2-sheet2.png
 images/loja-sheet0.png
-images/equipar-sheet0.png
 images/spritefont.png
-images/comprar-sheet0.png
-images/equipado-sheet0.png
+images/botaãocompraseleção-sheet0.png
+images/botaãocompraseleção-sheet1.png
+images/botaãocompraseleção-sheet2.png
+images/botaãocompraseleção-sheet3.png
 images/nexus-sheet0.png
-images/passarcartadireita-sheet0.png
-images/passarcartaesquerda-sheet0.png
 images/som-sheet0.png
 images/som-sheet1.png
 images/volta-sheet0.png
@@ -108,6 +110,21 @@ images/habilidade3-sheet0.png
 images/habilidade4-sheet0.png
 images/fura-sheet0.png
 images/eqg-sheet0.png
+images/comprarhab-sheet0.png
+images/comprarhab3-sheet0.png
+images/comprarhab4-sheet0.png
+images/vidavazia-sheet0.png
+images/metas-sheet0.png
+images/metastodas-sheet0.png
+images/metastodas-sheet1.png
+images/metastodas-sheet2.png
+images/metastodas-sheet3.png
+images/metastodas-sheet4.png
+images/metastodas-sheet5.png
+images/metastodas-sheet6.png
+images/metastodas-sheet7.png
+images/metastodas-sheet8.png
+images/crédits-sheet0.png
 media/cheeky_monkey_fun_app_playful_cheeky%20(online-audio-converter.com).ogg
 icon-16.png
 icon-32.png
