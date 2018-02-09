@@ -8,7 +8,7 @@ layout: default
 _Sou um estudante do IFRN em Jogos Digitais._
 # _Portfolio_
 
-### _Games_
+### **_Games_**
 
 [![](Balder.png) Balder](https://mychellangello.github.io/Balder/)
 
