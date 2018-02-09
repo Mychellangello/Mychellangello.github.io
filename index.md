@@ -2,7 +2,7 @@
 layout: default
 ---
 
- _~~Bem vindo~~_.
+ # _~~Bem vindo~~_.
 * * *
 # _Quem sou eu_
 _Sou um estudante do IFRN em Jogos Digitais._
