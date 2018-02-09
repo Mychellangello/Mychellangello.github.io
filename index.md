@@ -16,7 +16,7 @@ _Sou um estudante do IFRN em Jogos Digitais._
 
 ![](persona.png)
 
-![Deadpool](https://www.google.com.br/search?q=pixel+art&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiurcPA8JjZAhVMOZAKHY2bAdYQsAQIJg&biw=1920&bih=974#imgrc=KWxJqsWUCbyt7M:)
+![Deadpool](https://lh3.googleusercontent.com/agiMAi9ddTrSU8xpu0bcIvvIS-JboKSoJPFXo3Vyzc96sX9bfax3DNwzVxcJxaS-KQ=h900)
 ## _Apresentações_
 
 
