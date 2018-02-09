@@ -8,21 +8,21 @@ layout: default
 _Sou um estudante do IFRN em Jogos Digitais._
 # _Portfolio_
 
-## _Games_
+### _Games_
 
 [Primeiro Jogo : Balder](https://mychellangello.github.io/Balder/)
 
-## _Artes_
+### _Artes_
 
-![](persona.png)
-
-![Deadpool](https://lh3.googleusercontent.com/agiMAi9ddTrSU8xpu0bcIvvIS-JboKSoJPFXo3Vyzc96sX9bfax3DNwzVxcJxaS-KQ=h900)
-## _Apresentações_
-
-
+![](persona.png)  
+![](Balder.png)  
+![Deadpool](https://lh3.googleusercontent.com/agiMAi9ddTrSU8xpu0bcIvvIS-JboKSoJPFXo3Vyzc96sX9bfax3DNwzVxcJxaS-KQ=h900)  
+### _Apresentações_
 
 
-#### Legenda  
+
+
+##### Legenda  
 ** negrito  
 _italico  
 ~~ riscado  
