@@ -15,6 +15,7 @@ _Sou um estudante do IFRN em Jogos Digitais._
 ## _Artes_
 
 ![](persona.png)
+
 ![Deadpool](https://www.google.com.br/search?q=pixel+art&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiurcPA8JjZAhVMOZAKHY2bAdYQsAQIJg&biw=1920&bih=974#imgrc=KWxJqsWUCbyt7M:)
 ## _Apresentações_
 
