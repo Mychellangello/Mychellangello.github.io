@@ -19,6 +19,8 @@ _Sou um estudante do IFRN em Jogos Digitais._
 ### _Artes_
 
 ![](persona.png)   
+
+![](Carta-Eletronica.png)
   
 ### _Apresentações_
 
