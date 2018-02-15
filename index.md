@@ -6,8 +6,8 @@ layout: default
 * * *
 # _Quem sou eu_
 
-[Facebook](https://www.facebook.com/mychellangello.ruttyelly/)  
-[Instagram](https://www.instagram.com/m_ruttyelly/)
+[Facebook : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)  
+[Instagram : m_ruttyelly](https://www.instagram.com/m_ruttyelly/)  
 _Sou um estudante do IFRN em Jogos Digitais._
 
 # _Portfolio_
