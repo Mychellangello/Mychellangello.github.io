@@ -5,7 +5,7 @@ layout: default
 # _~~Bem vindo~~_.
 * * *
 # _Quem sou eu_
-[](https://www.instagram.com/m_ruttyelly/)
+![](https://www.instagram.com/m_ruttyelly/)
 _Sou um estudante do IFRN em Jogos Digitais._
 
 # _Portfolio_
