@@ -5,8 +5,9 @@ layout: default
 # _~~Bem vindo~~_.
 * * *
 # _Quem sou eu_
-![](https://www.facebook.com/mychellangello.ruttyelly/)
-![](https://www.instagram.com/m_ruttyelly/)
+
+[Facebook](https://www.facebook.com/mychellangello.ruttyelly/)  
+[Instagram](https://www.instagram.com/m_ruttyelly/)
 _Sou um estudante do IFRN em Jogos Digitais._
 
 # _Portfolio_
