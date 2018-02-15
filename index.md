@@ -10,8 +10,10 @@ _Sou um estudante do IFRN em Jogos Digitais._
 
 ### _Games_
 
-[![](Cartaumajornada.png)](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)
+[![](Cartaumajornada.png)Carta: um jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)
+
 [![](TDA.png) TDA](https://mychellangello.github.io/tdaf/)
+
 [![](Balder.png) Balder](https://mychellangello.github.io/Balder/)
 
 ### _Artes_
