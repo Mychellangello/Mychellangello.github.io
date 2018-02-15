@@ -20,7 +20,7 @@ _Sou um estudante do IFRN em Jogos Digitais._
 
 ![](persona.png)   
 
-![](Carta-Eletronica.png)
+![](Carta-Eletronica.gif)
   
 ### _Apresentações_
 
