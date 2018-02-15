@@ -10,12 +10,13 @@ _Sou um estudante do IFRN em Jogos Digitais._
 
 ### _Games_
 
+[1[](TDA.png) TDA](https://mychellangello.github.io/tdaf/)
 [![](Balder.png) Balder](https://mychellangello.github.io/Balder/)
 
 ### _Artes_
 
 ![](persona.png)   
-![Deadpool](https://lh3.googleusercontent.com/agiMAi9ddTrSU8xpu0bcIvvIS-JboKSoJPFXo3Vyzc96sX9bfax3DNwzVxcJxaS-KQ=h900)  
+  
 ### _Apresentações_
 
 
