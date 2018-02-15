@@ -8,7 +8,7 @@ layout: default
 
 [Facebook : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)  
 [Instagram : m_ruttyelly](https://www.instagram.com/m_ruttyelly/)  
-_Sou um estudante do IFRN em Jogos Digitais._
+_Cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN._
 
 # _Portfolio_
 
@@ -27,14 +27,3 @@ _Sou um estudante do IFRN em Jogos Digitais._
 ### _Apresentações_
 
 
-
-
-##### Legenda  
-** negrito  
-_italico  
-~~ riscado  
-  dois espaços o/ pular linha   
-3* pra fazer linha horizontal  
-hastags para criar capitulo e sub  
-1s numeros adiciona uma lista numerica  
-1* adiocion lista nao numerada  
