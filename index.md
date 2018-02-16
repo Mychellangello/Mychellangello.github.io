@@ -7,7 +7,8 @@ layout: default
 # _Quem sou eu_
 
 _Mychellangello Ruttyelly, cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN._  
-###Contatos
+
+###_Contatos_
 
 Email : Mychellangelloangello@gmail.com   
 [Facebook : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)  
