@@ -25,9 +25,9 @@ Email : Mychellangelloangello@gmail.com
 
 [![](Balder.png) Balder](https://mychellangello.github.io/Balder/)
 
-### _Artes_
-
+### _Artes_  
 ![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)
+
 #### _Influence map_  
 ![](Map.png)
   
