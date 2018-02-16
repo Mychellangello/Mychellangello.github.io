@@ -29,7 +29,7 @@ Email : Mychellangelloangello@gmail.com
 
 ![](persona.png)![](Carta-Eletronica.gif)
 #### _Influence map_  
-![](map.png)
+![](Map.png)
   
 ### _Apresentações_
 
