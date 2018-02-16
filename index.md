@@ -27,7 +27,7 @@ Email : Mychellangelloangello@gmail.com
 
 ### _Artes_
 
-![](persona.png)![](Carta-Eletronica.gif)
+![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)
 #### _Influence map_  
 ![](Map.png)
   
