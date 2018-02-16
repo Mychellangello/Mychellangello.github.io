@@ -8,7 +8,7 @@ layout: default
 
 _Mychellangello Ruttyelly, cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN._  
 
-###_Contatos_
+### _Contatos_
 
 Email : Mychellangelloangello@gmail.com   
 [Facebook : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)  
