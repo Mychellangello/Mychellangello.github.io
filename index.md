@@ -5,10 +5,14 @@ layout: default
 # _~~Bem vindo~~_.
 * * *
 # _Quem sou eu_
+
+_Mychellangello Ruttyelly, cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN._  
+###Contatos
+
 Email : Mychellangelloangello@gmail.com   
 [Facebook : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)  
 [Instagram : m_ruttyelly](https://www.instagram.com/m_ruttyelly/)  
-_Cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN._
+
 
 # _Portfolio_
 
