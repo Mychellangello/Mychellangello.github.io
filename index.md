@@ -19,13 +19,13 @@ Email : Mychellangelloangello@gmail.com
 
 ### _Games_
 
-[![](CartaumaJornada.png)Carta: um jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)
+[![](CartaumaJornada.png)Carta: um jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)  
 Parceiro:[Franklin Mateus](ThewordKh.github.io)
 
-[![](TDA.png) TDA](https://mychellangello.github.io/tdaf/)
+[![](TDA.png) TDA](https://mychellangello.github.io/tdaf/)  
 Parceiros: [Franklin Mateus](ThewordKh.github.io), [Guilherme Égle](GuiEgle.github.io)
 
-[![](Balder.png) Balder](https://mychellangello.github.io/Balder/)
+[![](Balder.png) Balder](https://mychellangello.github.io/Balder/)  
 Parceiro:[João Pedro](https://bixcoito.github.io/)
 
 
