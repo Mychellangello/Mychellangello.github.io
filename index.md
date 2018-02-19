@@ -20,10 +20,14 @@ Email : Mychellangelloangello@gmail.com
 ### _Games_
 
 [![](CartaumaJornada.png)Carta: um jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)
+Parceiro:[Franklin Mateus](ThewordKh.github.io)
 
 [![](TDA.png) TDA](https://mychellangello.github.io/tdaf/)
+Parceiros: [Franklin Mateus](ThewordKh.github.io), [Guilherme Égle](GuiEgle.github.io)
 
 [![](Balder.png) Balder](https://mychellangello.github.io/Balder/)
+Parceiro:[João Pedro](https://bixcoito.github.io/)
+
 
 #### _Tutoriais_
 
@@ -40,6 +44,6 @@ Parceiros: João Pedro, Guilherme Égle.
 ### _Apresentações_
 
 ### _Projeto Integrador (PI)_  
-[![](lIFE.png) The Heart Beat](https://bixcoito.github.io/TheHeartBeat/)  
+[![](lIFE.png)](https://bixcoito.github.io/TheHeartBeat/)  
 [The Heart Beat](https://bixcoito.github.io/TheHeartBeat/)
 
