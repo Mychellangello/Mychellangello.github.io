@@ -25,6 +25,12 @@ Email : Mychellangelloangello@gmail.com
 
 [![](Balder.png) Balder](https://mychellangello.github.io/Balder/)
 
+#### _Tutoriais_
+
+[![](Multi-idiomas)](https://drive.google.com/file/d/1xJXiLN-2qKVClKPrLnmwUOXI1nsXZThe/view)
+
+Parceiros: João Pedro, Guilherme Égle.
+
 ### _Artes_  
 ![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)
 
