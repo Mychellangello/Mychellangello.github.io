@@ -34,6 +34,6 @@ Email : Mychellangelloangello@gmail.com
 ### _Apresentações_
 
 ### _Projeto Integrador (PI)_  
-[![](IIFE.PNG) The Heart Beat ](https://bixcoito.github.io/TheHeartBeat/)
+[![](lIFE.PNG) The Heart Beat ](https://bixcoito.github.io/TheHeartBeat/)
 
 
