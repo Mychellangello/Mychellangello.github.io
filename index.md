@@ -40,6 +40,6 @@ Parceiros: João Pedro, Guilherme Égle.
 ### _Apresentações_
 
 ### _Projeto Integrador (PI)_  
-[![](lIFE.png) The Heart Beat](https://bixcoito.github.io/TheHeartBeat/)
-
+[![](lIFE.png) The Heart Beat](https://bixcoito.github.io/TheHeartBeat/)  
+[The Heart Beat](https://bixcoito.github.io/TheHeartBeat/)
 
