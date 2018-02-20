@@ -42,7 +42,7 @@ Parceiros: João Pedro, Guilherme Égle.
 ![](Map.png)
   
 #### _Trabalhos de Design Gráfico_  
-![](Cell.png)  
+![](cell.png)  
 ![](tmnt.png)
 ### _Apresentações_
 
