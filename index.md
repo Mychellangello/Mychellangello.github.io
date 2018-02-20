@@ -41,6 +41,9 @@ Parceiros: João Pedro, Guilherme Égle.
 #### _Influence map_  
 ![](Map.png)
   
+#### _Trabalhos de Design Gráfico_  
+![](Cell.png)  
+![](tmnt.png)
 ### _Apresentações_
 
 ### _Projeto Integrador (PI)_  
