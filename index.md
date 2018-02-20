@@ -41,11 +41,13 @@ Parceiros: João Pedro, Guilherme Égle.
 #### _Influence map_  
 ![](Map.png)
   
-#### _Trabalhos de Design Gráfico_  
+#### _Trabalhos de Design Gráfico_
+##### _Criação_
 ![](cell.png)  
-![Releitura do poste das Tartarugas ninjas](tmnt.png)
-![Releitura do poste do homem de ferro](iron.png)  
-![Releitura do poste de kung fu panda](kung.png)  
+##### _Releituras_
+![](tmnt.png)
+![](iron.png)  
+![](kung.png)  
 ### _Apresentações_
 
 ### _Projeto Integrador (PI)_  
