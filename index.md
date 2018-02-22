@@ -10,7 +10,7 @@ _Mychellangello Ruttyelly, cursando o 3º ano de programação de jogos Digitais
 
 ### _Contatos_
 
-Email : Mychellangelloangello@gmail.com   
+Email : Mychellangelloangello@gmail.com, Mychellangello@hotmail.com.   
 [Facebook : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)  
 [Instagram : m_ruttyelly](https://www.instagram.com/m_ruttyelly/)  
 
@@ -31,7 +31,7 @@ Parceiro:[João Pedro](https://bixcoito.github.io/)
 
 #### _Tutoriais_
 
-[![](Multi-idiomas)](https://drive.google.com/file/d/1xJXiLN-2qKVClKPrLnmwUOXI1nsXZThe/view)
+[Multi-idiomas](https://drive.google.com/file/d/1xJXiLN-2qKVClKPrLnmwUOXI1nsXZThe/view)
 
 Parceiros: João Pedro, Guilherme Égle.
 
