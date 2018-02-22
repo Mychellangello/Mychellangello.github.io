@@ -18,7 +18,7 @@ Email : Mychellangelloangello@gmail.com, Mychellangello@hotmail.com.
 # _Portfolio_
 
 ### _Games_
-
+***
 [![](CartaumaJornada.png)Carta: um jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)  
 Parceiro:[Franklin Mateus](https://thewordkh.github.io/)
 
@@ -34,9 +34,9 @@ Parceiro:[João Pedro](https://bixcoito.github.io/)
 [Multi-idiomas](https://drive.google.com/file/d/1xJXiLN-2qKVClKPrLnmwUOXI1nsXZThe/view)
 
 Parceiros: João Pedro, Guilherme Égle.
-
+***
 ### _Artes_  
-![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)
+![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)![](fundocreditos.png)
 
 #### _Influence map_  
 ![](Map.png)
