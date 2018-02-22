@@ -49,7 +49,6 @@ Parceiros: João Pedro, Guilherme Égle.
 ![](tmnt.png)
 ![](iron.png)  
 ![](kung.png)  
-### _Apresentações_
 
 ### _Projeto Integrador (PI)_  
 [![](lIFE.png)](https://bixcoito.github.io/TheHeartBeat/)  
