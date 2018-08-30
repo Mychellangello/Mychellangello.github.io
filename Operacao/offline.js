@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1535664667,
+	"version": 1535666638,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,7 @@
 		"images/prissionadonum-sheet0.png",
 		"images/barravida-sheet0.png",
 		"images/barravida2-sheet0.png",
+		"images/rigtgp-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
