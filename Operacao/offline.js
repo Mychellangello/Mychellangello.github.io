@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1535668928,
+	"version": 1537474418,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,11 @@
 		"images/barravida-sheet0.png",
 		"images/barravida2-sheet0.png",
 		"images/rigtgp-sheet0.png",
+		"images/operando-sheet0.png",
+		"images/sensor_operando-sheet0.png",
+		"images/sensor_operando-sheet1.png",
+		"images/zona-sheet0.png",
+		"media/Áudio fase 2 (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
