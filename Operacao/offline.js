@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1537474418,
+	"version": 1537898754,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,8 @@
 		"images/parede-sheet1.png",
 		"images/parede-sheet2.png",
 		"images/multiplicador-sheet0.png",
+		"images/multiplicador-sheet1.png",
+		"images/multiplicador-sheet2.png",
 		"images/numeros-sheet0.png",
 		"images/vida-sheet0.png",
 		"images/selomultiplicador-sheet0.png",
@@ -29,6 +31,7 @@
 		"images/gamepad_middle-sheet0.png",
 		"images/logo-sheet0.png",
 		"images/prissionadonum-sheet0.png",
+		"images/prissionadoope-sheet0.png",
 		"images/barravida-sheet0.png",
 		"images/barravida2-sheet0.png",
 		"images/rigtgp-sheet0.png",
