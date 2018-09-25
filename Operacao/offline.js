@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1537898754,
+	"version": 1537901628,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,8 +14,8 @@
 		"images/multiplicador-sheet1.png",
 		"images/multiplicador-sheet2.png",
 		"images/numeros-sheet0.png",
+		"images/numeros-sheet1.png",
 		"images/vida-sheet0.png",
-		"images/selomultiplicador-sheet0.png",
 		"images/f1-sheet0.png",
 		"images/pause-sheet0.png",
 		"images/fundopause-sheet0.png",
