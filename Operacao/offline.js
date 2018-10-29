@@ -1,9 +1,5 @@
 ﻿{
-<<<<<<< HEAD
-	"version": 1539975808,
-=======
-	"version": 1537902784,
->>>>>>> ab0a01955e53935925576d1659ebca4f3b6c7de9
+	"version": 1540839666,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,7 +18,6 @@
 		"images/vida-sheet0.png",
 		"images/f1-sheet0.png",
 		"images/f1-sheet1.png",
-		"images/f1-sheet2.png",
 		"images/pause-sheet0.png",
 		"images/fundopause-sheet0.png",
 		"images/sensor-sheet0.png",
