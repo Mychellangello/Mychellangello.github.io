@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1540839666,
+	"version": 1541708661,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,8 @@
 		"images/vida-sheet0.png",
 		"images/f1-sheet0.png",
 		"images/f1-sheet1.png",
+		"images/f1-sheet2.png",
+		"images/f1-sheet3.png",
 		"images/pause-sheet0.png",
 		"images/fundopause-sheet0.png",
 		"images/sensor-sheet0.png",
@@ -42,6 +44,9 @@
 		"images/sensor_operando-sheet1.png",
 		"images/zona-sheet0.png",
 		"images/fasenodisponivel-sheet0.png",
+		"images/ceu-sheet0.png",
+		"images/montanha.png",
+		"images/tiledbackground.png",
 		"media/Áudio fase 2 (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
