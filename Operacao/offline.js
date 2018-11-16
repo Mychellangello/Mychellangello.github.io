@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1542400140,
+	"version": 1542405338,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,6 +47,11 @@
 		"images/ceu-sheet0.png",
 		"images/montanha.png",
 		"images/montanhalonge.png",
+		"images/album-sheet0.png",
+		"images/perça-sheet0.png",
+		"images/perça-sheet1.png",
+		"images/setas-sheet0.png",
+		"images/setas-sheet1.png",
 		"media/Áudio fase 2 (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
