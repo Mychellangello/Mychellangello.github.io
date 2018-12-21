@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545422987,
+	"version": 1545429481,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,8 +22,6 @@
 		"images/chao2-sheet0.png",
 		"images/chaomovi-sheet0.png",
 		"images/opções-sheet0.png",
-		"images/opções-sheet1.png",
-		"images/opções-sheet2.png",
 		"images/logo-sheet0.png",
 		"images/barravida-sheet0.png",
 		"images/barravida2-sheet0.png",
