@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548257628,
+	"version": 1548271517,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,7 @@
 		"images/opções-sheet0.png",
 		"images/opções-sheet1.png",
 		"images/opções-sheet2.png",
+		"images/opções-sheet3.png",
 		"images/logo-sheet0.png",
 		"images/barravida-sheet0.png",
 		"images/barravida2-sheet0.png",
