@@ -2,11 +2,11 @@
 layout: default
 ---
 * * *
-# _~~Bem vindo~~_.
+# _Bem vindo._
 * * *
-# _Quem sou eu_
+# _Quem sou eu:_
 
-_Mychellangello Ruttyelly, cursando o 3º ano de programação de jogos Digitais, campus Ceará-Mirim/RN._  
+_Mychellangello Ruttyelly, terminei o curso programação de jogos Digitais, IFRN campus Ceará-Mirim/RN. Agora estou cursando Artes visuais na UFRN._  
 
 ### [RPP](https://mychellangello.github.io/Operacao/) ###
 ### _Contatos_
