@@ -37,7 +37,7 @@ Parceiro:[João Pedro](https://bixcoito.github.io/)
 Parceiros: João Pedro, Guilherme Égle.
 ***
 ### _Artes_  
-![](sabado.jpg)![](ruivinha.jpg)![](mee.jpg)![](estrelas.jpg)![](panda.jpg)![](20211211_235654_(1).jpg)![](A torre_20210824102108.png)![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)![](fundocreditos.png)![](1.png)![](2.png)![](3.png)![](4.png)![](8.png)![](5.png)
+![](eco.jpg)![](Rumura.png)![](corações.png)![](azulejo.jpg)![](espirais.jpg)![](sabado.jpg)![](ruivinha.jpg)![](mee.jpg)![](estrelas.jpg)![](panda.jpg)![](20211211_235654_(1).jpg)![](A torre_20210824102108.png)![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)![](fundocreditos.png)![](1.png)![](2.png)![](3.png)![](4.png)![](8.png)![](5.png)
 
 
 #### _Influence map_  
