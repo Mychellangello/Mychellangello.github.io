@@ -20,7 +20,7 @@ Email : Mychellangelloangello@gmail.com, Mychellangello@hotmail.com.
 
 ### _Games_
 ***
-[![](CartaumaJornada.png)Carta: um jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)  
+[![](CartaumaJornada.png)Carta: uma jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)  
 Parceiro:[Franklin Mateus](https://thewordkh.github.io/)
 
 [![](TDA.png) TDA](https://mychellangello.github.io/tdaf/)  
