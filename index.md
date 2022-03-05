@@ -55,3 +55,5 @@ Parceiros: João Pedro, Guilherme Égle.
 [![](lIFE.png)](https://bixcoito.github.io/TheHeartBeat/)  
 [The Heart Beat](https://bixcoito.github.io/TheHeartBeat/)
 
+### _Mangás/HQs_
+![](Mangá - Ivo Maia - Para Leitura.pdf)
