@@ -38,7 +38,7 @@ Parceiros: João Pedro, Guilherme Égle.
 ***
 
 ### _Artes_  
-![](eco.jpg)![](Rumura.png)![](corações.png)![](azulejo.jpg)![](espirais.jpg)![](sabado.jpg)![](ruivinha.jpg)![](mee.jpg)![](estrelas.jpg)![](panda.jpg)![](20211211_235654_(1).jpg)![](A torre_20210824102108.png)![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)![](fundocreditos.png)![](1.png)![](2.png)![](3.png)![](4.png)![](8.png)![](5.png)
+![](Elaroxoanja.jpg)![](eco.jpg)![](Rumura.png)![](corações.png)![](azulejo.jpg)![](espirais.jpg)![](sabado.jpg)![](ruivinha.jpg)![](mee.jpg)![](estrelas.jpg)![](panda.jpg)![](20211211_235654_(1).jpg)![](A torre_20210824102108.png)![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)![](fundocreditos.png)![](1.png)![](2.png)![](3.png)![](4.png)![](8.png)![](5.png)
 
 ### _Mangás/HQs_
 Os mangás foram feitos em parceria com Lucas Manolo, responsável pelo roteiro, enquanto eu fui responsável pela parte visual.
