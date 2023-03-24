@@ -13,8 +13,8 @@ Cursando Artes visuais na UFRN._
 ### _Contatos_
 
 Email : Mychellangelloangello@gmail.com.   
-[Facebook : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)  
-[Instagram : m_ruttyelly](https://www.instagram.com/m_ruttyelly/)  
+[Facebook *OFF* : Mychellangello Ruttyelly](https://www.facebook.com/mychellangello.ruttyelly/)
+
 
 
 # _Portfolio_
