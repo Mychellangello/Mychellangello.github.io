@@ -6,7 +6,8 @@ layout: default
 * * *
 # _Quem sou eu:_
 
-_Mychellangello Ruttyelly, terminei o curso programação de jogos Digitais, IFRN campus Ceará-Mirim/RN. Agora estou cursando Artes visuais na UFRN._  
+_Mychellangello Ruttyelly, técnico em programação de jogos Digitais, pelo IFRN campus Ceará-Mirim/RN. 
+Cursando Artes visuais na UFRN._  
 
 ### [RPP](https://mychellangello.github.io/Operacao/) ###
 ### _Contatos_
@@ -38,7 +39,7 @@ Parceiros: João Pedro, Guilherme Égle.
 ***
 
 ### _Artes_  
-![](mr.png)![](Elaroxoanja.jpg)![](eco.jpg)![](Rumura.png)![](corações.png)![](azulejo.jpg)![](espirais.jpg)![](sabado.jpg)![](ruivinha.jpg)![](mee.jpg)![](estrelas.jpg)![](panda.jpg)![](20211211_235654_(1).jpg)![](A torre_20210824102108.png)![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)![](fundocreditos.png)![](1.png)![](2.png)![](3.png)![](4.png)![](8.png)![](5.png)
+![](mão.png)![](totoro.png)![](totoro(1).obg)![](totoro1.png)![](jarro.png)![](mr.png)![](Elaroxoanja.jpg)![](eco.jpg)![](Rumura.png)![](corações.png)![](azulejo.jpg)![](espirais.jpg)![](sabado.jpg)![](ruivinha.jpg)![](mee.jpg)![](estrelas.jpg)![](panda.jpg)![](20211211_235654_(1).jpg)![](A torre_20210824102108.png)![](persona.png)![](Carta-Eletronica.gif)![](Espada.gif)![](fundocreditos.png)![](1.png)![](2.png)![](3.png)![](4.png)![](8.png)![](5.png)
 
 ### _Mangás/HQs_
 Os mangás foram feitos em parceria com Lucas Manolo, responsável pelo roteiro, enquanto eu fui responsável pela parte visual.
