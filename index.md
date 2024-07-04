@@ -50,6 +50,7 @@ Os mangás foram feitos em parceria com Lucas Manolo, responsável pelo roteiro,
 
 
 Esse HQ [Gravandollegna](https://ollegnart.blogspot.com/2024/06/gravandollegna.html?m=1) foi produzido apenas pro mim.
+[![](00.png)](https://ollegnart.blogspot.com/2024/06/gravandollegna.html?m=1)
 
 #### _Influence map_  
 ![](Map.png)
