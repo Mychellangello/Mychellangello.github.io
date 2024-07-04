@@ -47,7 +47,8 @@ Os mangás foram feitos em parceria com Lucas Manolo, responsável pelo roteiro,
 [![](ivomaia.png)](https://drive.google.com/file/d/18ZXwdbvNRoebIrsM-R9QxdT01ftPoyov/view?usp=sharing) 
 [![](tales.png)](https://drive.google.com/file/d/1PydoiWrJQCWzY3W_pSLLIsDCOxPpKbBh/view?usp=sharing) 
 [![](Dolores.png)](https://drive.google.com/file/d/1nhr828KlmXTCU_4OmbLijZsBUju1x7Kf/view?usp=sharing)
-[Gravandollegna] (https://ollegnart.blogspot.com/2024/06/gravandollegna.html?m=1)
+
+[Gravandollegna](https://ollegnart.blogspot.com/2024/06/gravandollegna.html?m=1)
 
 #### _Influence map_  
 ![](Map.png)
